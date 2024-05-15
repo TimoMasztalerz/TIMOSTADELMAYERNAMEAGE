@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Username">Username</string>
+    <string name="Hobbys">Hobbys</string>
+    <string name="Speichern">Speichern</string>
+    <string name="eingabeHobbys">Hobby eingeben</string>
+
+</resources>
